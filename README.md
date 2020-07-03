@@ -25,7 +25,7 @@ lastreferenceddate:                 2020-07-03 15:47:49 <> 2020-07-03 15:48:01
 
 This script does the same thing as `sfdx force:org:open`, but it is a good basis to build more automation on top.
 
-# ## Installation
+### Installation
 
 ```
 npm install
